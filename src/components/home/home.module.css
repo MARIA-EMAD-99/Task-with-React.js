@@ -1,0 +1,20 @@
+.backgroundimage {
+    background-image: url('../../../src/assets/person-adding-clothes-cart-closeup-online-shopping-campaign.jpg'); /* Adjust the path as per your project structure */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+    padding: 20px;
+  }
+  
+
+
+.textoverlay {
+    position: absolute;
+    bottom: 50%;
+    transform: translateY(50%);
+    color: black;
+    font-size: 20px;
+    width: 50%;
+    margin-left: 56px;
+  }

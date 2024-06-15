@@ -1,0 +1,31 @@
+.noborder {
+    border: none !important;
+  }
+  
+  .showButton {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 10px;
+    display: none;
+  }
+  
+  .card:hover .showButton {
+    display: block;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: auto;
+  }
+  .icondetails{
+color: black;
+  background-color: white;
+border-radius: 50%;
+position: absolute;
+top: 30px;
+right:15px;
+padding: 3px;
+  }
+
+  

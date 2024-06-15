@@ -1,0 +1,28 @@
+/* src/index.css or any appropriate CSS file */
+
+.navbaricons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbaricon {
+    margin-right: 20px;
+    position: relative;
+    color: #000; /* Adjust the color as needed */
+    text-decoration: none;
+  }
+  
+  .navbaricon:hover {
+    color: #007bff; /* Adjust hover color as needed */
+  }
+  
+  .navbariconbadge {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    background: red;
+    color: white;
+    border-radius: 50%;
+    padding: 2px 5px;
+    font-size: 12px;
+  }  
