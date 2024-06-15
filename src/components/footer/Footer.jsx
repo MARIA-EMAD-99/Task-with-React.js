@@ -1,10 +1,10 @@
-// src/components/Footer.js
+
 import React from 'react';
-import style from './footer.module.css'; // Import CSS file for styling
+import style from './footer.module.css'; 
 
 const Footer = () => {
  
-  const companyName = "Your Company Name";
+  const companyName = "Momentum Solutions";
   const currentDate = new Date().toDateString()
 
   return (
